@@ -51,7 +51,7 @@
                 </Label>
                 <TextBox></TextBox>
                 <Label>Kod pocztowy</Label>
-                <TextBox></TextBox>
+                <TextBox x:Name="kodtxtbox"></TextBox>
                 <Label>Miasto</Label>
                 <TextBox></TextBox>
             </StackPanel>
